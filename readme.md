@@ -2,6 +2,8 @@ ANS: Arabic News Stance Corpus
 =========================
 ![version](https://img.shields.io/badge/version-v0.1-blue) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+![cover](ans.png)
+
 An News Titles Stance Dataset in Arabic.  The dataset includes two perspectives as described below.  For details on how the data was created and examples of use, please refer to the paper:
 
 ```

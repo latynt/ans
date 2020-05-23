@@ -1,25 +1,27 @@
-ANS: Arabic News Stance Corpus
-=========================
+
 ![version](https://img.shields.io/badge/version-v0.1-blue) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ![cover](ans.png)
 
-An News Titles Stance Dataset in Arabic.  The dataset includes two perspectives as described below.  For details on how the data was created and examples of use, please refer to the paper:
+ANS: Arabic News Stance Corpus
+=========================
+
+The dataset is a collection of news titles in arabic along with paraphrased and corrupted titles. It includes two perspectives as described below.  For details on how the data was created and examples of use, please refer to the [paper](https://arxiv.org/abs/2005.10410).
+
+
+### Citation:
+If you use this data, please cite the following work:
 
 ```
 Khouja, Jude. “Stance Prediction and Claim Verification: An Arabic Perspective.” 
 Proceedings of the Third Workshop on Fact Extraction and VERification workshop at ACL 2020 (FEVER), (2020).
 ```
 
-### Citation:
-If you use this data, please cite the following work:
-
 ```
 @inproceedings{,
     title = "Stance Prediction and Claim Verification: An {A}rabic Perspective", 
     author = "Khouja, Jude",
     booktitle = "Proceedings of the Third Workshop on Fact Extraction and {VER}ification ({FEVER})",
-    month = may,
     year = "2020",
     address = "Seattle, USA",
     publisher = "Association for Computational Linguistics",
